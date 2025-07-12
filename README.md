@@ -21,7 +21,7 @@ StackIt is a simplified question-and-answer platform designed to support structu
 
 ---
 
-## Features Implementing
+## Features Implemented
 
 ### User Roles
 
