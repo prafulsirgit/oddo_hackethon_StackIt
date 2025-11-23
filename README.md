@@ -16,7 +16,7 @@ StackIt is a simplified question-and-answer platform designed to support structu
   Email: [chaprepayal30@gmail.com](mailto:chaprepayal30@gmail.com)
 - Praful Sushil Nayak
   Email: [prafulnayak@hotmail.com](mailto:prafulnayak@hotmail.com)
-- Praful Sushil Nayak
+- Shashank Lambat
   Email: [shashanklambat1@gmail.com](mailto:shashanklambat1@gmail.com)
 
 ---
